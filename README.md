@@ -43,3 +43,11 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+### **Connect with Me**
+
+If you found this project insightful or want to discuss data, technology, and new opportunities, feel free to connect with me on my professional platforms:
+
+- 💼 **LinkedIn:** [**Omkar Sharma**](https://www.linkedin.com/in/omkar3101)
+- 📂 **Portfolio:** [**My Portfolio**](https://rhinestone-dibble-6c6.notion.site/Omkar-Sharma-2a56733b537c800db9ebe11314a946b5)
+- 💻 **GitHub:** [**@Omkar3101**](https://github.com/Omkar3101)
